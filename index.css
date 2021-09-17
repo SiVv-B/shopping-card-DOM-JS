@@ -1,0 +1,14 @@
+img {
+    height: 250px;
+    width: 250px;
+  }
+  
+  .mylist {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  body {
+    background-color: #f6f5f5;
+  }
